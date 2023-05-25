@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1067649401359",
+    "project_id": "juflutter",
+    "storage_bucket": "juflutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067649401359:android:abbad229ab50a0ce2e597a",
+        "android_client_info": {
+          "package_name": "com.example.graduationproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067649401359-8ljj8cnk0sugeo11343svtnfpi9k6err.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIkHQ2m_3FP1YEMon95Tb36StQEWNECc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067649401359-8ljj8cnk0sugeo11343svtnfpi9k6err.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
